@@ -1,0 +1,9 @@
+body
+{
+text-align-last: center;
+background:lightblue;
+}
+#output
+{
+    border-top: 10px solid #AA4465;
+}
